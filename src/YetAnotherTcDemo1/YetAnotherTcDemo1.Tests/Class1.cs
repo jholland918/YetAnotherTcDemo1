@@ -8,7 +8,7 @@ namespace YetAnotherTcDemo1.Tests
         [Test]
         public void Should_test_something()
         {
-            Assert.AreEqual(1, 1);
+            Assert.AreEqual(1, 0);
         }
     }
 }
