@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YetAnotherTcDemo1", "YetAno
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YetAnotherTcDemo1.Tests", "YetAnotherTcDemo1.Tests\YetAnotherTcDemo1.Tests.csproj", "{359010E0-2CFD-4B29-A1F9-B010575ECE70}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{7A881902-838E-4C45-98CD-062FF15FBDD6}"
+	ProjectSection(SolutionItems) = preProject
+		Jenkinsfile = Jenkinsfile
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
